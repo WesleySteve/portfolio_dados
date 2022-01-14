@@ -15,3 +15,7 @@
         - https://github.com/WesleySteve/bancoslib.git
 
 
+- bancoslib_mariadb
+    - Biblioteca com funções de manipulação de bancos de dados mariadb
+        - https://github.com/WesleySteve/bancoslib_mariadb.git
+
