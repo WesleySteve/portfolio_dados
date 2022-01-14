@@ -10,4 +10,8 @@
 
 ## Projetos de Dados
 
+- bancoslib
+    - Biblioteca com funções de manipulação de dados, 
+        - https://github.com/WesleySteve/bancoslib.git
+
 
