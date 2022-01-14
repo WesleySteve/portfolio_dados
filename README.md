@@ -23,3 +23,7 @@
 
 ## Projeto_Olist
 
+- O objetivo deste projeto é: armazenar as referencias dos repositorios 
+individuais que serão criados para compor o projeto_olist completo.
+    - https://github.com/WesleySteve/projeto_olist.git
+
