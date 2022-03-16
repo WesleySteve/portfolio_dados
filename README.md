@@ -20,6 +20,12 @@
         - https://github.com/WesleySteve/bancoslib_mariadb.git
 
 
+- bancoslib_postgres
+    - Biblioteca com funções de manipulação de bancos de dados postgres
+        - https://github.com/WesleySteve/bancoslib_postgres.git
+
+
+
 
 ## Projeto_Olist
 
