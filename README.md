@@ -24,12 +24,14 @@
     - Biblioteca com funções de manipulação de bancos de dados postgres
         - https://github.com/WesleySteve/bancoslib_postgres.git
 
+- upload_data
+    - Projeto responsavel em gerar um banco de dados SQLITE através de arquivos .csv adicionados no diretório raw
+        - https://github.com/WesleySteve/upload_data.git
 
 
 
 ## Projeto_Olist
 
-- O objetivo deste projeto é: armazenar as referencias dos repositorios 
+- O objetivo deste projeto será: armazenar as referencias dos repositorios 
 individuais que serão criados para compor o projeto_olist completo.
-    - https://github.com/WesleySteve/projeto_olist.git
-
+    - link do repositório
